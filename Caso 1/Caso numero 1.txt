@@ -1,0 +1,15 @@
+
+# Problema
+
+Un usuario reporta que su computadora no puede acceder a internet.
+
+Síntomas:
+
+- Las páginas web no cargan.
+- Aplicaciones que requieren internet no funcionan.
+- El ícono de red indica conexión limitada.
+
+Entorno:
+
+- Estación de trabajo con Windows 11
+- Red corporativa
